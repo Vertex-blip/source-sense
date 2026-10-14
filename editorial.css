@@ -1,10 +1,9 @@
 /* An investigative, print-inspired visual layer over the application layout. */
 :root { font-family: 'Segoe UI', Arial, sans-serif; color: #25312f; background: #f5f2ec; }
 .site-header { background: #f5f2ec; border-bottom: 1px solid #cbc8bf; }
-.brand { font-family: Georgia, serif; letter-spacing: -.055em; }
-.brand-mark { border-color: #243230; }
-.brand-mark:after { background: #243230; }
-.brand-mark span { background: #be6248; }
+.brand { font-family: Georgia, serif; font-weight: 700; letter-spacing: -.055em; }
+.brand-icon { display: block; width: 38px; height: 38px; flex: none; }
+.brand em { color: #ad553e; font-style: italic; font-weight: 400; }
 .site-header nav a:hover, .site-header nav a:focus-visible { color: #a54c39; }
 .local-pill { border-color: #bcbcb2; }
 .local-pill span { background: #b85e45; }

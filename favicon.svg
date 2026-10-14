@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">SourceSense</title>
+  <rect width="48" height="48" fill="#f5f2ec"/>
+  <path d="M18 6H8v36h10M30 6h10v36H30" fill="none" stroke="#263431" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M17 24h14" fill="none" stroke="#b45a42" stroke-width="5" stroke-linecap="square"/>
+</svg>
